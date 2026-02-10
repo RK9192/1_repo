@@ -1,0 +1,2 @@
+welcome to git2
+edit command 1

@@ -1,0 +1,3 @@
+welcome to git3
+edit command 2
+edit command 3
